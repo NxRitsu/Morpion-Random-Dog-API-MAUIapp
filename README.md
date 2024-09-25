@@ -7,6 +7,7 @@ Ce dépôt GitHub contient les projets réalisés dans le cadre de mon BTS SIO. 
    - **Description** : Le projet avait pour but de créer une application mobile, contenant un morpion et l'utilisation d'une API 😊
    - **Technologies utilisées** : <br />
      <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg" alt="javascript" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" alt="javascript" width="40" height="40"/>
 
 ## Auteur
 
